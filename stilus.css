@@ -1,0 +1,66 @@
+body{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.header, footer {
+  background-color: #abced4;
+  padding: 10%;
+  color: #eaf7f388;
+  text-align: center;
+  background-image: url(kepek/wowhatter.jpg);
+  height: auto;
+  background-repeat: repeat-x;
+  width: 100%;
+}
+section{
+    height: 400px;
+    font-size: large;
+}
+#elso{
+    background-color: rgb(10, 32, 231);
+    color: rgb(0, 0, 0);
+    width: 100%;
+    text-align: left;
+}
+#masodik{
+    background-color: red;
+    width: 100%;
+    text-align: left;
+}
+#harmadik{
+  background-color: green;
+    width: 100%;
+    text-align: left;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: left;
+    padding: 20px 5px;
+    text-decoration: none;
+  }
+  .topnav a:hover {
+    background-color: rgb(11, 218, 138);
+    color: black;
+  }
+table, td, th{
+  font-size: x-large;
+  /*border: 10px solid rgb(3, 247, 255);*/
+  border-spacing: 10px;
+}
+.cella{
+  background-color: cornflowerblue;
+}
+/*.column{
+  border: 0px solid black;
+  border-spacing: 0px;
+  padding: 5px;
+  text-align: center;
+  height: 100px;
+  vertical-align: center;
+  width: 100%;
+}*/
